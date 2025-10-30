@@ -2,7 +2,10 @@
 
 ## Plano de Estudo: Semestre 2025.2
 **Disciplina:** Controle e Automação
+
 **Professor:** Moacy Pereira da Silva
+
+**Alunos:** Caio Diniz, Vinícius Gonzaga CavalcanteRodrigues
 
 Este repositório contém os resumos estruturados, notebooks de simulação em Python (Google Colab) e relatórios de integração com a Indústria 4.0, conforme as diretrizes do Estudo Dirigido. O projeto estabelece uma ponte entre os fundamentos teóricos do controle clássico (Dorf & Bishop) e as tecnologias modernas da Quarta Revolução Industrial.
 
