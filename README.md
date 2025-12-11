@@ -97,8 +97,6 @@ Focado na discretização de controladores para implementação em computadores,
 
 Esta seção consolida todo o conhecimento adquirido, conectando as equações diferenciais e funções de transferência às tecnologias habilitadoras da manufatura avançada.
 
-**Arquivo Principal:** [`Relatorio_Final_Integrador.md`](Relatorio_Final_Integrador.md)
-
 ### Tópicos Abordados:
 
 1.  **APC (Advanced Process Control):** Como o PID bem sintonizado (Cap. 10) é a fundação para o Controle Preditivo (MPC).
